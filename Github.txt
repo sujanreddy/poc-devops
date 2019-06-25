@@ -1,5 +1,5 @@
 Siddhu@SIDDHU MINGW64 ~
-$ ls
+
 '3D Objects'/              Favorites/                         NTUSER.DAT                                                                                     Recent@
  AppData/                  iCloudDrive/                       ntuser.dat.LOG1                                                                               'Saved Games'/
 'Application Data'@        IntelGraphicsProfiles/             ntuser.dat.LOG2                                                                                Searches/
